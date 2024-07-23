@@ -1,2 +1,2 @@
 # Codsoft
-this repository contains codsoft projects 
+this repository contains codsoft projects.
